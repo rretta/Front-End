@@ -1,0 +1,74 @@
+
+
+body{
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+
+.aqua-gradient {
+    height: 200px;
+    background: #56ab2f;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #a8e063, #56ab2f);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #a8e063, #56ab2f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+;
+  }
+  
+  
+  .navbar{
+  position: fixed !important;
+  width: 100%;
+  z-index: 100;
+}
+  .image {
+    margin-top: -70px;
+  
+  }
+  
+  .avatar-container {
+    width: 100%;
+    
+
+  }
+
+
+
+  .nombre{
+    text-align: left;
+    margin-left: 3rem;
+  }
+  
+
+
+
+  .about-style{
+    background-color: #a8e063;
+    border: 1px  rgb(39, 59, 9,);
+    border-radius: 5px;
+  }
+
+
+  .imagen-puesto{
+    max-width: 100px
+  }
+
+
+
+
+.container-proyects{
+  background-color: rgb(128, 223, 223);
+  border: 1px solid black;
+  
+
+  
+
+}
+
+
+
+
+
+.centrado{
+  text-align: center;
+  justify-content: center;
+}
+
